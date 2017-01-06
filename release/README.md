@@ -1,8 +1,6 @@
 * 目的
-  * fluct_dlvのrtblogAndNativeAdTestPageを使ってテストできるようにする
+  * fluct_dlvのrtblogAndNativeAdTestPageを使ってラビアンローズ環境にてnative.jsを配信テストできるようにする
   * rtblogAndNativeAdTestPageブランチはテストしたいブランチを派生させてチェリーピックで追加して運用する
-* 効果
-  * ラビアンローズ環境でテスト出来る状態に持っていくためのshell
 * 実行方法
   * 第一引数 : 派生させたチケットブランチの名称をにする
     * 指定例 : 12345
